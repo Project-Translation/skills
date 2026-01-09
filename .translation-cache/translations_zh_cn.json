@@ -1,0 +1,890 @@
+{
+  "skills/algorithmic-art/LICENSE.txt": {
+    "translate_datetime": "2026-01-07:10:48",
+    "src_hash": "175792518e4ac015ab6696d16c4f607e",
+    "src_size": 11357,
+    "src_mtime_ms": 1767751856297.4888
+  },
+  "skills/algorithmic-art/SKILL.md": {
+    "translate_datetime": "2026-01-07:10:50",
+    "src_hash": "edfa3e23147ec7f049ef483146c89f16",
+    "src_size": 19769,
+    "src_mtime_ms": 1767751856298.0818
+  },
+  "skills/algorithmic-art/templates/generator_template.js": {
+    "translate_datetime": "2026-01-07:10:50",
+    "src_hash": "b0fd5cb4d4bb7cafee5e336b50f62c27",
+    "src_size": 7826,
+    "src_mtime_ms": 1767751856298.6492
+  },
+  "skills/algorithmic-art/templates/viewer.html": {
+    "translate_datetime": "2026-01-07:10:51",
+    "src_hash": "6fec68ff8079873799cf106892353adb",
+    "src_size": 20844,
+    "src_mtime_ms": 1767751856299.2769
+  },
+  "skills/brand-guidelines/LICENSE.txt": {
+    "translate_datetime": "2026-01-07:10:52",
+    "src_hash": "175792518e4ac015ab6696d16c4f607e",
+    "src_size": 11357,
+    "src_mtime_ms": 1767751856300.5244
+  },
+  "skills/brand-guidelines/SKILL.md": {
+    "translate_datetime": "2026-01-07:10:52",
+    "src_hash": "207ce9f9ea28f742ff2c9deaca08bd6e",
+    "src_size": 2235,
+    "src_mtime_ms": 1767751856300.5244
+  },
+  "skills/canvas-design/canvas-fonts/BigShoulders-OFL.txt": {
+    "translate_datetime": "2026-01-07:10:52",
+    "src_hash": "db35b3b1166369fabfe18614e67ad0f7",
+    "src_size": 4397,
+    "src_mtime_ms": 1767751856306.1277
+  },
+  "skills/canvas-design/canvas-fonts/Boldonse-OFL.txt": {
+    "translate_datetime": "2026-01-07:10:52",
+    "src_hash": "fd1bd9bdc739431ca190a2178b29fe2e",
+    "src_size": 4390,
+    "src_mtime_ms": 1767751856308.1592
+  },
+  "skills/canvas-design/canvas-fonts/BricolageGrotesque-OFL.txt": {
+    "translate_datetime": "2026-01-07:10:53",
+    "src_hash": "c01c6f2840f06aacc97899ab09ec0e01",
+    "src_size": 4403,
+    "src_mtime_ms": 1767751856310.163
+  },
+  "skills/canvas-design/canvas-fonts/CrimsonPro-OFL.txt": {
+    "translate_datetime": "2026-01-07:10:53",
+    "src_hash": "2b62069b71f49dddd2bde54448a986a0",
+    "src_size": 4394,
+    "src_mtime_ms": 1767751856314.691
+  },
+  "skills/canvas-design/canvas-fonts/GeistMono-OFL.txt": {
+    "translate_datetime": "2026-01-07:10:53",
+    "src_hash": "9678944f41fc8b46592ca1626f1c0896",
+    "src_size": 4388,
+    "src_mtime_ms": 1767751856319.6912
+  },
+  "skills/canvas-design/canvas-fonts/InstrumentSans-OFL.txt": {
+    "translate_datetime": "2026-01-07:10:53",
+    "src_hash": "35856d470a6adf5d5c4a9bcdfd659bcc",
+    "src_size": 4403,
+    "src_mtime_ms": 1767751856336.1355
+  },
+  "skills/canvas-design/canvas-fonts/Italiana-OFL.txt": {
+    "translate_datetime": "2026-01-07:10:54",
+    "src_hash": "233d74d83b54a786d21a429304775aef",
+    "src_size": 4394,
+    "src_mtime_ms": 1767751856339.822
+  },
+  "skills/canvas-design/canvas-fonts/JetBrainsMono-OFL.txt": {
+    "translate_datetime": "2026-01-07:10:54",
+    "src_hash": "2025a2ee80175b15561a8232e67d74d5",
+    "src_size": 4399,
+    "src_mtime_ms": 1767751856341.9734
+  },
+  "skills/canvas-design/canvas-fonts/LibreBaskerville-OFL.txt": {
+    "translate_datetime": "2026-01-07:10:54",
+    "src_hash": "077df2dc77ecd9ca43d6fbc15ed1c0cb",
+    "src_size": 4449,
+    "src_mtime_ms": 1767751856346.9817
+  },
+  "skills/canvas-design/canvas-fonts/Outfit-OFL.txt": {
+    "translate_datetime": "2026-01-07:10:55",
+    "src_hash": "1b36bbe38eb97e26055123ff42f44fc7",
+    "src_size": 4389,
+    "src_mtime_ms": 1767751856360.791
+  },
+  "skills/canvas-design/canvas-fonts/PoiretOne-OFL.txt": {
+    "translate_datetime": "2026-01-07:10:55",
+    "src_hash": "954ca844e5dd9e31353213c6a142b9a4",
+    "src_size": 4366,
+    "src_mtime_ms": 1767751856363.7349
+  },
+  "skills/canvas-design/canvas-fonts/SmoochSans-OFL.txt": {
+    "translate_datetime": "2026-01-07:10:55",
+    "src_hash": "da377dd00a998b32d88274b2b17c64be",
+    "src_size": 4396,
+    "src_mtime_ms": 1767751856368.8674
+  },
+  "skills/canvas-design/canvas-fonts/Tektur-OFL.txt": {
+    "translate_datetime": "2026-01-07:10:55",
+    "src_hash": "40fd22c803f19bfbdb6383598f3bfacb",
+    "src_size": 4385,
+    "src_mtime_ms": 1767751856370.9006
+  },
+  "skills/canvas-design/canvas-fonts/WorkSans-OFL.txt": {
+    "translate_datetime": "2026-01-07:10:55",
+    "src_hash": "4bf1338afcac74d0c9ea569f07a87fab",
+    "src_size": 4397,
+    "src_mtime_ms": 1767751856377.3474
+  },
+  "skills/canvas-design/LICENSE.txt": {
+    "translate_datetime": "2026-01-07:10:56",
+    "src_hash": "175792518e4ac015ab6696d16c4f607e",
+    "src_size": 11357,
+    "src_mtime_ms": 1767751856301.7441
+  },
+  "skills/canvas-design/SKILL.md": {
+    "translate_datetime": "2026-01-07:10:57",
+    "src_hash": "3004dffc91611ca480b24d952d33ad46",
+    "src_size": 11939,
+    "src_mtime_ms": 1767751856302.3909
+  },
+  "skills/docx/docx-js.md": {
+    "translate_datetime": "2026-01-07:10:58",
+    "src_hash": "15a27be440a323b03258658b826f432c",
+    "src_size": 16509,
+    "src_mtime_ms": 1767751856384.3506
+  },
+  "skills/docx/LICENSE.txt": {
+    "translate_datetime": "2026-01-07:10:58",
+    "src_hash": "f8515c3694eb11622110ca76c7c15d1b",
+    "src_size": 1467,
+    "src_mtime_ms": 1767751856383.3508
+  },
+  "skills/docx/ooxml/schemas/ISO-IEC29500-4_2016/dml-chart.xsd": {
+    "translate_datetime": "2026-01-07:11:04",
+    "src_hash": "d480bbfc8419bd13a324e5f4a509ba68",
+    "src_size": 74984,
+    "src_mtime_ms": 1767751856386.3982
+  },
+  "skills/docx/ooxml/schemas/ISO-IEC29500-4_2016/dml-diagram.xsd": {
+    "translate_datetime": "2026-01-07:11:05",
+    "src_hash": "cb2abeeed3213366e06e25923bb4ad09",
+    "src_size": 51302,
+    "src_mtime_ms": 1767751856387.3506
+  },
+  "skills/docx/ooxml/schemas/ISO-IEC29500-4_2016/dml-main.xsd": {
+    "translate_datetime": "2026-01-07:11:12",
+    "src_hash": "e36b6a6af361a798cd6a355196f3262e",
+    "src_size": 152039,
+    "src_mtime_ms": 1767751856390.5989
+  },
+  "skills/docx/ooxml/schemas/ISO-IEC29500-4_2016/pml.xsd": {
+    "translate_datetime": "2026-01-07:11:16",
+    "src_hash": "75f17beb6f1c7b60f5137983cc021d0b",
+    "src_size": 83612,
+    "src_mtime_ms": 1767751856392.944
+  },
+  "skills/docx/ooxml/schemas/ISO-IEC29500-4_2016/shared-commonSimpleTypes.xsd": {
+    "translate_datetime": "2026-01-07:11:16",
+    "src_hash": "365b2284f108314ea702ae73381430e7",
+    "src_size": 6382,
+    "src_mtime_ms": 1767751856394.7075
+  },
+  "skills/docx/ooxml/schemas/ISO-IEC29500-4_2016/sml.xsd": {
+    "translate_datetime": "2026-01-07:11:32",
+    "src_hash": "e749fe354be1efa4f5821f15e985bab7",
+    "src_size": 242277,
+    "src_mtime_ms": 1767751856400.129
+  },
+  "skills/docx/ooxml/schemas/ISO-IEC29500-4_2016/wml.xsd": {
+    "translate_datetime": "2026-01-07:11:40",
+    "src_hash": "b45ef5819b5a41db79f34f79ee15b686",
+    "src_size": 171367,
+    "src_mtime_ms": 1767751856403.2234
+  },
+  "skills/docx/ooxml/schemas/mce/mc.xsd": {
+    "translate_datetime": "2026-01-07:11:40",
+    "src_hash": "7afc4d2311ae2e584cfbd258d10070dd",
+    "src_size": 3127,
+    "src_mtime_ms": 1767751856408.2412
+  },
+  "skills/docx/ooxml/schemas/microsoft/wml-symex-2015.xsd": {
+    "translate_datetime": "2026-01-07:11:41",
+    "src_hash": "61334714fbd66b85ef04466301795ee0",
+    "src_size": 745,
+    "src_mtime_ms": 1767751856411.24
+  },
+  "skills/docx/ooxml/scripts/pack.py": {
+    "translate_datetime": "2026-01-07:11:41",
+    "src_hash": "99d7c94338ecaac4ea0d423c130e332b",
+    "src_size": 5596,
+    "src_mtime_ms": 1767751856412.2405
+  },
+  "skills/docx/ooxml/scripts/unpack.py": {
+    "translate_datetime": "2026-01-07:11:41",
+    "src_hash": "26135c2250872e522f41215833880bc5",
+    "src_size": 1037,
+    "src_mtime_ms": 1767751856413.2402
+  },
+  "skills/docx/ooxml/scripts/validate.py": {
+    "translate_datetime": "2026-01-07:11:41",
+    "src_hash": "400db0997d1bfbdd99d0580c8b52946a",
+    "src_size": 1959,
+    "src_mtime_ms": 1767751856413.2402
+  },
+  "skills/docx/ooxml/scripts/validation/base.py": {
+    "translate_datetime": "2026-01-07:11:43",
+    "src_hash": "6143bb27c1039ff3d7486d1e526641dd",
+    "src_size": 39892,
+    "src_mtime_ms": 1767751856415.2407
+  },
+  "skills/docx/ooxml/scripts/validation/docx.py": {
+    "translate_datetime": "2026-01-07:11:44",
+    "src_hash": "a7205f1dc872cbad78ac5544d4db4de9",
+    "src_size": 9996,
+    "src_mtime_ms": 1767751856415.2407
+  },
+  "skills/docx/ooxml/scripts/validation/pptx.py": {
+    "translate_datetime": "2026-01-07:11:45",
+    "src_hash": "3b5cc57a4728a9297f51b8a4c66f7449",
+    "src_size": 12327,
+    "src_mtime_ms": 1767751856416.2402
+  },
+  "skills/docx/ooxml/scripts/validation/redlining.py": {
+    "translate_datetime": "2026-01-07:11:45",
+    "src_hash": "fcb6a89a761a10ea108cfee9e4f1337a",
+    "src_size": 11179,
+    "src_mtime_ms": 1767751856416.2402
+  },
+  "skills/docx/ooxml/scripts/validation/__init__.py": {
+    "translate_datetime": "2026-01-07:11:45",
+    "src_hash": "9577920dc811fff9762a96d4095d95e5",
+    "src_size": 336,
+    "src_mtime_ms": 1767751856414.24
+  },
+  "skills/docx/scripts/document.py": {
+    "translate_datetime": "2026-01-07:11:46",
+    "src_hash": "eead7e14882d3febbd0818dfea8c9564",
+    "src_size": 50409,
+    "src_mtime_ms": 1767751856418.2412
+  },
+  "skills/docx/scripts/utilities.py": {
+    "translate_datetime": "2026-01-07:11:47",
+    "src_hash": "922fbeab1256151da4eadb94820160c6",
+    "src_size": 13694,
+    "src_mtime_ms": 1767751856421.973
+  },
+  "skills/docx/scripts/__init__.py": {
+    "translate_datetime": "2026-01-07:11:47",
+    "src_hash": "2b74d8c4bd027d27b005fb0d2411b7a2",
+    "src_size": 65,
+    "src_mtime_ms": 1767751856417.24
+  },
+  "skills/docx/SKILL.md": {
+    "translate_datetime": "2026-01-07:11:47",
+    "src_hash": "a1e0b4d131bd8d1161c0124a1cb92439",
+    "src_size": 10150,
+    "src_mtime_ms": 1767751856383.3508
+  },
+  "skills/frontend-design/LICENSE.txt": {
+    "translate_datetime": "2026-01-07:11:48",
+    "src_hash": "2ee41112a44fe7014dce33e26468ba93",
+    "src_size": 10174,
+    "src_mtime_ms": 1767751856423.0444
+  },
+  "skills/frontend-design/SKILL.md": {
+    "translate_datetime": "2026-01-07:11:48",
+    "src_hash": "06a0520e81f698334258c73ff0de533b",
+    "src_size": 4440,
+    "src_mtime_ms": 1767751856424.165
+  },
+  "skills/internal-comms/examples/3p-updates.md": {
+    "translate_datetime": "2026-01-07:11:48",
+    "src_hash": "acf74437a9e65edced3d56dd9ee63722",
+    "src_size": 3274,
+    "src_mtime_ms": 1767751856425.9153
+  },
+  "skills/internal-comms/examples/faq-answers.md": {
+    "translate_datetime": "2026-01-07:11:48",
+    "src_hash": "8765c9c2ac0f0f56c8690df4583a9643",
+    "src_size": 2366,
+    "src_mtime_ms": 1767751856427.0747
+  },
+  "skills/internal-comms/examples/general-comms.md": {
+    "translate_datetime": "2026-01-07:11:49",
+    "src_hash": "bdc6cf6bc1fad20a52a4662d430dcaf8",
+    "src_size": 602,
+    "src_mtime_ms": 1767751856427.6528
+  },
+  "skills/internal-comms/LICENSE.txt": {
+    "translate_datetime": "2026-01-07:11:49",
+    "src_hash": "175792518e4ac015ab6696d16c4f607e",
+    "src_size": 11357,
+    "src_mtime_ms": 1767751856424.7578
+  },
+  "skills/internal-comms/SKILL.md": {
+    "translate_datetime": "2026-01-07:11:49",
+    "src_hash": "965e18658e8c1b7da6ff2be579b81934",
+    "src_size": 1511,
+    "src_mtime_ms": 1767751856425.3357
+  },
+  "skills/mcp-builder/LICENSE.txt": {
+    "translate_datetime": "2026-01-07:11:49",
+    "src_hash": "175792518e4ac015ab6696d16c4f607e",
+    "src_size": 11357,
+    "src_mtime_ms": 1767751856428.2246
+  },
+  "skills/mcp-builder/reference/evaluation.md": {
+    "translate_datetime": "2026-01-07:11:50",
+    "src_hash": "4aa903da7d9c289eb167dce2747140f2",
+    "src_size": 21663,
+    "src_mtime_ms": 1767751856429.8464
+  },
+  "skills/mcp-builder/reference/mcp_best_practices.md": {
+    "translate_datetime": "2026-01-07:11:50",
+    "src_hash": "e7cd50e7527877687efebcd3877e3e9a",
+    "src_size": 7330,
+    "src_mtime_ms": 1767751856429.8464
+  },
+  "skills/mcp-builder/reference/node_mcp_server.md": {
+    "translate_datetime": "2026-01-07:11:52",
+    "src_hash": "214713cb0cfdf6ea4aa8eda85e2c6959",
+    "src_size": 28550,
+    "src_mtime_ms": 1767751856430.8606
+  },
+  "skills/mcp-builder/reference/python_mcp_server.md": {
+    "translate_datetime": "2026-01-07:11:53",
+    "src_hash": "af767546b4697efbb7348f5c06a6b071",
+    "src_size": 25099,
+    "src_mtime_ms": 1767751856431.8604
+  },
+  "skills/mcp-builder/scripts/connections.py": {
+    "translate_datetime": "2026-01-07:11:54",
+    "src_hash": "577a5757c0f687ad4a84eb48eac9d514",
+    "src_size": 4875,
+    "src_mtime_ms": 1767751856432.861
+  },
+  "skills/mcp-builder/scripts/evaluation.py": {
+    "translate_datetime": "2026-01-07:11:55",
+    "src_hash": "78d39ae57d97d49295872ef1a04cfd20",
+    "src_size": 12579,
+    "src_mtime_ms": 1767751856432.861
+  },
+  "skills/mcp-builder/scripts/example_evaluation.xml": {
+    "translate_datetime": "2026-01-07:11:55",
+    "src_hash": "7573fa9dc397ed81e21c168eeeae5c87",
+    "src_size": 1194,
+    "src_mtime_ms": 1767751856433.8608
+  },
+  "skills/mcp-builder/scripts/requirements.txt": {
+    "translate_datetime": "2026-01-07:11:55",
+    "src_hash": "3ec2de45c75cadfbf997821049c09fbd",
+    "src_size": 29,
+    "src_mtime_ms": 1767751856433.8608
+  },
+  "skills/mcp-builder/SKILL.md": {
+    "translate_datetime": "2026-01-07:11:55",
+    "src_hash": "595dcfd738e6aabe7fbbc35929baa7a6",
+    "src_size": 9092,
+    "src_mtime_ms": 1767751856429.3071
+  },
+  "skills/pdf/forms.md": {
+    "translate_datetime": "2026-01-07:11:56",
+    "src_hash": "d5339abaa6d29990426a942207fb62d9",
+    "src_size": 9438,
+    "src_mtime_ms": 1767751856435.355
+  },
+  "skills/pdf/reference.md": {
+    "translate_datetime": "2026-01-07:11:57",
+    "src_hash": "c98b5ac274243622da3712daa2f859f5",
+    "src_size": 16692,
+    "src_mtime_ms": 1767751856436.3704
+  },
+  "skills/pdf/scripts/check_bounding_boxes.py": {
+    "translate_datetime": "2026-01-07:11:57",
+    "src_hash": "05161845d6a3c47b17895ac067403d0a",
+    "src_size": 3139,
+    "src_mtime_ms": 1767751856437.3667
+  },
+  "skills/pdf/scripts/check_bounding_boxes_test.py": {
+    "translate_datetime": "2026-01-09:13:29",
+    "src_hash": "34b76c38fdebceb73e8d01c5945113b2",
+    "src_size": 8818,
+    "src_mtime_ms": 1767751856438.3628
+  },
+  "skills/pdf/scripts/check_fillable_fields.py": {
+    "translate_datetime": "2026-01-07:11:58",
+    "src_hash": "4f0c554f34abf2157160ad74792dc1c2",
+    "src_size": 362,
+    "src_mtime_ms": 1767751856438.3628
+  },
+  "skills/pdf/scripts/convert_pdf_to_images.py": {
+    "translate_datetime": "2026-01-07:11:58",
+    "src_hash": "4e5fc4c79544f9a61ec712a5d2a5c195",
+    "src_size": 1123,
+    "src_mtime_ms": 1767751856439.3655
+  },
+  "skills/pdf/scripts/create_validation_image.py": {
+    "translate_datetime": "2026-01-07:11:58",
+    "src_hash": "6252c7872a566522575c1a16c0091f6b",
+    "src_size": 1603,
+    "src_mtime_ms": 1767751856439.3655
+  },
+  "skills/pdf/scripts/fill_fillable_fields.py": {
+    "translate_datetime": "2026-01-07:11:58",
+    "src_hash": "c8eb778ec728012a10984a89e6ec8c68",
+    "src_size": 4863,
+    "src_mtime_ms": 1767751856440.3643
+  },
+  "skills/pdf/scripts/fill_pdf_form_with_annotations.py": {
+    "translate_datetime": "2026-01-07:11:59",
+    "src_hash": "245707535943b32d0cdd7e7ef82a2d0f",
+    "src_size": 3596,
+    "src_mtime_ms": 1767751856440.3643
+  },
+  "skills/pdf/SKILL.md": {
+    "translate_datetime": "2026-01-07:11:59",
+    "src_hash": "2fd15a918e558060f3dfa8ec979ba08e",
+    "src_size": 7068,
+    "src_mtime_ms": 1767751856435.355
+  },
+  "skills/pptx/html2pptx.md": {
+    "translate_datetime": "2026-01-07:12:01",
+    "src_hash": "f7ccca1c05dbcbb254fc9b5c88b76b52",
+    "src_size": 19859,
+    "src_mtime_ms": 1767751856442.3628
+  },
+  "skills/pptx/LICENSE.txt": {
+    "translate_datetime": "2026-01-07:12:01",
+    "src_hash": "f8515c3694eb11622110ca76c7c15d1b",
+    "src_size": 1467,
+    "src_mtime_ms": 1767751856441.365
+  },
+  "skills/pptx/ooxml/schemas/ISO-IEC29500-4_2016/dml-chart.xsd": {
+    "translate_datetime": "2026-01-07:12:04",
+    "src_hash": "d480bbfc8419bd13a324e5f4a509ba68",
+    "src_size": 74984,
+    "src_mtime_ms": 1767751856444.3645
+  },
+  "skills/pptx/ooxml/schemas/ISO-IEC29500-4_2016/dml-diagram.xsd": {
+    "translate_datetime": "2026-01-07:12:05",
+    "src_hash": "cb2abeeed3213366e06e25923bb4ad09",
+    "src_size": 51302,
+    "src_mtime_ms": 1767751856445.3618
+  },
+  "skills/canvas-design/canvas-fonts/DMMono-OFL.txt": {
+    "translate_datetime": "2026-01-07:12:12",
+    "src_hash": "c6a3ddf00ed346cbb45fdfa0ca2c4b9c",
+    "src_size": 4392,
+    "src_mtime_ms": 1767751856316.6907
+  },
+  "skills/canvas-design/canvas-fonts/IBMPlexMono-OFL.txt": {
+    "translate_datetime": "2026-01-07:12:12",
+    "src_hash": "30de3a874e3399fc7b9d1bec045d3166",
+    "src_size": 4363,
+    "src_mtime_ms": 1767751856324.6907
+  },
+  "skills/canvas-design/canvas-fonts/PixelifySans-OFL.txt": {
+    "translate_datetime": "2026-01-07:12:12",
+    "src_hash": "1f685eb54479bfa39bced4f64798a900",
+    "src_size": 4395,
+    "src_mtime_ms": 1767751856363.1726
+  },
+  "skills/canvas-design/canvas-fonts/Silkscreen-OFL.txt": {
+    "translate_datetime": "2026-01-07:12:13",
+    "src_hash": "ed13fbda3931ec8f3beb063f8fcd2182",
+    "src_size": 4394,
+    "src_mtime_ms": 1767751856367.1353
+  },
+  "skills/internal-comms/examples/company-newsletter.md": {
+    "translate_datetime": "2026-01-07:12:13",
+    "src_hash": "6f97d1001ca99c1ef2db92ebe58e41eb",
+    "src_size": 3295,
+    "src_mtime_ms": 1767751856426.4941
+  },
+  "skills/pdf/LICENSE.txt": {
+    "translate_datetime": "2026-01-07:12:13",
+    "src_hash": "f8515c3694eb11622110ca76c7c15d1b",
+    "src_size": 1467,
+    "src_mtime_ms": 1767751856434.8425
+  },
+  "skills/pdf/scripts/extract_form_field_info.py": {
+    "translate_datetime": "2026-01-07:12:14",
+    "src_hash": "14fceec0f069296289e56e8432c944cd",
+    "src_size": 6127,
+    "src_mtime_ms": 1767751856439.3655
+  },
+  "skills/pptx/ooxml/scripts/unpack.py": {
+    "translate_datetime": "2026-01-07:12:14",
+    "src_hash": "26135c2250872e522f41215833880bc5",
+    "src_size": 1037,
+    "src_mtime_ms": 1767751856469.46
+  },
+  "skills/pptx/ooxml/scripts/validate.py": {
+    "translate_datetime": "2026-01-07:12:14",
+    "src_hash": "400db0997d1bfbdd99d0580c8b52946a",
+    "src_size": 1959,
+    "src_mtime_ms": 1767751856470.458
+  },
+  "skills/pptx/ooxml/scripts/validation/base.py": {
+    "translate_datetime": "2026-01-09:13:34",
+    "src_hash": "6143bb27c1039ff3d7486d1e526641dd",
+    "src_size": 39892,
+    "src_mtime_ms": 1767751856471.49
+  },
+  "skills/pptx/ooxml/scripts/validation/docx.py": {
+    "translate_datetime": "2026-01-07:12:16",
+    "src_hash": "a7205f1dc872cbad78ac5544d4db4de9",
+    "src_size": 9996,
+    "src_mtime_ms": 1767751856471.49
+  },
+  "skills/pptx/ooxml/scripts/validation/pptx.py": {
+    "translate_datetime": "2026-01-07:12:17",
+    "src_hash": "3b5cc57a4728a9297f51b8a4c66f7449",
+    "src_size": 12327,
+    "src_mtime_ms": 1767751856472.458
+  },
+  "skills/pptx/ooxml/scripts/validation/redlining.py": {
+    "translate_datetime": "2026-01-07:12:17",
+    "src_hash": "fcb6a89a761a10ea108cfee9e4f1337a",
+    "src_size": 11179,
+    "src_mtime_ms": 1767751856472.458
+  },
+  "skills/pptx/ooxml/scripts/validation/__init__.py": {
+    "translate_datetime": "2026-01-07:12:18",
+    "src_hash": "9577920dc811fff9762a96d4095d95e5",
+    "src_size": 336,
+    "src_mtime_ms": 1767751856470.458
+  },
+  "skills/pptx/ooxml.md": {
+    "translate_datetime": "2026-01-07:12:18",
+    "src_hash": "e005fbf12fcdde499989f2b79e61c012",
+    "src_size": 10388,
+    "src_mtime_ms": 1767751856443.365
+  },
+  "skills/pptx/scripts/html2pptx.js": {
+    "translate_datetime": "2026-01-07:12:18",
+    "src_hash": "e8153f73ac29899f06f31b124cf45fda",
+    "src_size": 37795,
+    "src_mtime_ms": 1767751856473.4912
+  },
+  "skills/canvas-design/canvas-fonts/ArsenalSC-OFL.txt": {
+    "translate_datetime": "2026-01-07:12:25",
+    "src_hash": "6ba27859bff46d6040ce48e164b2b6b5",
+    "src_size": 4373,
+    "src_mtime_ms": 1767751856303.0315
+  },
+  "skills/canvas-design/canvas-fonts/Jura-OFL.txt": {
+    "translate_datetime": "2026-01-07:12:26",
+    "src_hash": "227060bfebf7bcf3f924fafa47d1237d",
+    "src_size": 4380,
+    "src_mtime_ms": 1767751856346.9817
+  },
+  "skills/canvas-design/canvas-fonts/Lora-OFL.txt": {
+    "translate_datetime": "2026-01-09:13:19",
+    "src_hash": "a6f35dd3870842fab964fbcd0ffb2908",
+    "src_size": 4423,
+    "src_mtime_ms": 1767751856353.984
+  },
+  "skills/docx/ooxml.md": {
+    "translate_datetime": "2026-01-07:12:28",
+    "src_hash": "d89f0932327560e5e47059955c69c27f",
+    "src_size": 23572,
+    "src_mtime_ms": 1767751856385.3525
+  },
+  "skills/pptx/ooxml/scripts/pack.py": {
+    "translate_datetime": "2026-01-07:12:28",
+    "src_hash": "99d7c94338ecaac4ea0d423c130e332b",
+    "src_size": 5596,
+    "src_mtime_ms": 1767751856469.46
+  },
+  "skills/pptx/scripts/inventory.py": {
+    "translate_datetime": "2026-01-07:12:30",
+    "src_hash": "601246c5e0de1240936033b6b15c0e62",
+    "src_size": 38126,
+    "src_mtime_ms": 1767751856474.5007
+  },
+  "skills/pptx/scripts/rearrange.py": {
+    "translate_datetime": "2026-01-07:12:31",
+    "src_hash": "50ed064e92670d478b2ee681670829dc",
+    "src_size": 8514,
+    "src_mtime_ms": 1767751856475.4902
+  },
+  "skills/pptx/scripts/replace.py": {
+    "translate_datetime": "2026-01-07:12:32",
+    "src_hash": "58d9f615c24a006ec8fbf543ecf7f3d6",
+    "src_size": 13594,
+    "src_mtime_ms": 1767751856475.4902
+  },
+  "skills/pptx/scripts/thumbnail.py": {
+    "translate_datetime": "2026-01-07:12:33",
+    "src_hash": "8a1810bf6f566ece02c00176c019aacb",
+    "src_size": 15484,
+    "src_mtime_ms": 1767751856476.4907
+  },
+  "skills/skill-creator/references/output-patterns.md": {
+    "translate_datetime": "2026-01-07:12:33",
+    "src_hash": "308ee9adac7916adb67140d962bd3a04",
+    "src_size": 1813,
+    "src_mtime_ms": 1767751856478.491
+  },
+  "skills/skill-creator/references/workflows.md": {
+    "translate_datetime": "2026-01-07:12:33",
+    "src_hash": "30341a6ab982568fd117600fe6f5c253",
+    "src_size": 818,
+    "src_mtime_ms": 1767751856478.491
+  },
+  "skills/skill-creator/scripts/init_skill.py": {
+    "translate_datetime": "2026-01-07:12:34",
+    "src_hash": "6c859331681b3f43092ab8695d624b36",
+    "src_size": 10863,
+    "src_mtime_ms": 1767751856480.1355
+  },
+  "skills/skill-creator/scripts/package_skill.py": {
+    "translate_datetime": "2026-01-07:12:34",
+    "src_hash": "ca05b626406d61f50038c1a0384d78d1",
+    "src_size": 3288,
+    "src_mtime_ms": 1767751856480.7905
+  },
+  "skills/skill-creator/scripts/quick_validate.py": {
+    "translate_datetime": "2026-01-07:12:34",
+    "src_hash": "25176a4e2211e4591f60c15083087c3f",
+    "src_size": 3523,
+    "src_mtime_ms": 1767751856481.2976
+  },
+  "skills/skill-creator/SKILL.md": {
+    "translate_datetime": "2026-01-09:13:36",
+    "src_hash": "b67fed4d1f7aea8cbb95d7fc9176faee",
+    "src_size": 17837,
+    "src_mtime_ms": 1767751856477.458
+  },
+  "skills/slack-gif-creator/core/easing.py": {
+    "translate_datetime": "2026-01-07:12:36",
+    "src_hash": "e7fc06b3a101335c6f9c2694920f2905",
+    "src_size": 6265,
+    "src_mtime_ms": 1767751856484.1797
+  },
+  "skills/slack-gif-creator/core/gif_builder.py": {
+    "translate_datetime": "2026-01-07:12:36",
+    "src_hash": "ad49e19c1e0219bc0e4156a5d8d240fe",
+    "src_size": 9847,
+    "src_mtime_ms": 1767751856485.2214
+  },
+  "skills/slack-gif-creator/core/validators.py": {
+    "translate_datetime": "2026-01-07:12:36",
+    "src_hash": "b5e65b65d0d099f5b0f92201adfaac05",
+    "src_size": 3785,
+    "src_mtime_ms": 1767751856486.934
+  },
+  "skills/slack-gif-creator/LICENSE.txt": {
+    "translate_datetime": "2026-01-07:12:37",
+    "src_hash": "175792518e4ac015ab6696d16c4f607e",
+    "src_size": 11357,
+    "src_mtime_ms": 1767751856481.8357
+  },
+  "skills/slack-gif-creator/SKILL.md": {
+    "translate_datetime": "2026-01-07:12:37",
+    "src_hash": "a66f5f027555b2cac44f789bc86c1f09",
+    "src_size": 7841,
+    "src_mtime_ms": 1767751856483.0637
+  },
+  "skills/theme-factory/LICENSE.txt": {
+    "translate_datetime": "2026-01-07:12:38",
+    "src_hash": "175792518e4ac015ab6696d16c4f607e",
+    "src_size": 11357,
+    "src_mtime_ms": 1767751856488.1582
+  },
+  "skills/theme-factory/themes/arctic-frost.md": {
+    "translate_datetime": "2026-01-07:12:38",
+    "src_hash": "b965587321a87fec6fcfb74479a0792d",
+    "src_size": 544,
+    "src_mtime_ms": 1767751856490.4766
+  },
+  "skills/theme-factory/themes/botanical-garden.md": {
+    "translate_datetime": "2026-01-07:12:38",
+    "src_hash": "cbcf4b3c4440efbd2515c5edbb125cbd",
+    "src_size": 519,
+    "src_mtime_ms": 1767751856491.0796
+  },
+  "skills/theme-factory/themes/desert-rose.md": {
+    "translate_datetime": "2026-01-07:12:38",
+    "src_hash": "0bb0468ce18d9d8bdc13210e5e011199",
+    "src_size": 496,
+    "src_mtime_ms": 1767751856491.0796
+  },
+  "skills/theme-factory/themes/golden-hour.md": {
+    "translate_datetime": "2026-01-07:12:38",
+    "src_hash": "5b29778bec2c4fe98afff9f852d7bebc",
+    "src_size": 528,
+    "src_mtime_ms": 1767751856492.2993
+  },
+  "skills/theme-factory/themes/midnight-galaxy.md": {
+    "translate_datetime": "2026-01-07:12:39",
+    "src_hash": "f2c28f1a3a8e9f132cb2625fbb674317",
+    "src_size": 513,
+    "src_mtime_ms": 1767751856492.2993
+  },
+  "skills/theme-factory/themes/modern-minimalist.md": {
+    "translate_datetime": "2026-01-07:12:39",
+    "src_hash": "73b67cfa216fb776976ed268c36f394e",
+    "src_size": 549,
+    "src_mtime_ms": 1767751856493.3054
+  },
+  "skills/theme-factory/themes/ocean-depths.md": {
+    "translate_datetime": "2026-01-07:12:39",
+    "src_hash": "702f14f8a16eb7943f4f8fa18632bea7",
+    "src_size": 555,
+    "src_mtime_ms": 1767751856493.3054
+  },
+  "skills/theme-factory/themes/sunset-boulevard.md": {
+    "translate_datetime": "2026-01-07:12:39",
+    "src_hash": "7a533182584962e7bb5e7577874d0768",
+    "src_size": 558,
+    "src_mtime_ms": 1767751856493.3054
+  },
+  "skills/theme-factory/themes/tech-innovation.md": {
+    "translate_datetime": "2026-01-07:12:39",
+    "src_hash": "fcc062f7c91159298558ab7e2c23f102",
+    "src_size": 547,
+    "src_mtime_ms": 1767751856494.3079
+  },
+  "skills/web-artifacts-builder/scripts/bundle-artifact.sh": {
+    "translate_datetime": "2026-01-07:12:39",
+    "src_hash": "22f56bef1c502e4ab4ae913ac27d622c",
+    "src_size": 1517,
+    "src_mtime_ms": 1767751856496.3076
+  },
+  "skills/web-artifacts-builder/scripts/init-artifact.sh": {
+    "translate_datetime": "2026-01-07:12:40",
+    "src_hash": "cffd995203d8d54844d67ed87572d1cd",
+    "src_size": 9924,
+    "src_mtime_ms": 1767751856496.3076
+  },
+  "skills/web-artifacts-builder/SKILL.md": {
+    "translate_datetime": "2026-01-07:12:40",
+    "src_hash": "90dbe0c781269819b4b22a2248baf14d",
+    "src_size": 3087,
+    "src_mtime_ms": 1767751856495.346
+  },
+  "skills/webapp-testing/examples/console_logging.py": {
+    "translate_datetime": "2026-01-07:12:40",
+    "src_hash": "eeccdae76b3d57954c562d6116bf0dea",
+    "src_size": 1027,
+    "src_mtime_ms": 1767751856499.4175
+  },
+  "skills/webapp-testing/examples/element_discovery.py": {
+    "translate_datetime": "2026-01-07:12:41",
+    "src_hash": "ab18cb3570c77564a08cc73269d7b97d",
+    "src_size": 1463,
+    "src_mtime_ms": 1767751856500.4197
+  },
+  "skills/webapp-testing/examples/static_html_automation.py": {
+    "translate_datetime": "2026-01-07:12:41",
+    "src_hash": "b631a23dc044d41fae4614be9353527d",
+    "src_size": 953,
+    "src_mtime_ms": 1767751856500.4197
+  },
+  "skills/webapp-testing/LICENSE.txt": {
+    "translate_datetime": "2026-01-07:12:41",
+    "src_hash": "175792518e4ac015ab6696d16c4f607e",
+    "src_size": 11357,
+    "src_mtime_ms": 1767751856498.4087
+  },
+  "skills/webapp-testing/scripts/with_server.py": {
+    "translate_datetime": "2026-01-07:12:41",
+    "src_hash": "5182121f66c1b4279a5b3013378e6ea9",
+    "src_size": 3693,
+    "src_mtime_ms": 1767751856501.4175
+  },
+  "skills/webapp-testing/SKILL.md": {
+    "translate_datetime": "2026-01-07:12:41",
+    "src_hash": "b02025a3df7ff4a6ac7e765cd1d6d54c",
+    "src_size": 3913,
+    "src_mtime_ms": 1767751856498.4087
+  },
+  "skills/xlsx/LICENSE.txt": {
+    "translate_datetime": "2026-01-07:12:42",
+    "src_hash": "f8515c3694eb11622110ca76c7c15d1b",
+    "src_size": 1467,
+    "src_mtime_ms": 1767751856501.4175
+  },
+  "skills/xlsx/recalc.py": {
+    "translate_datetime": "2026-01-07:12:42",
+    "src_hash": "e6c4829467c535ad41a456a7a331cca7",
+    "src_size": 6408,
+    "src_mtime_ms": 1767751856503.4177
+  },
+  "skills/xlsx/SKILL.md": {
+    "translate_datetime": "2026-01-07:12:43",
+    "src_hash": "bfb65175a34c49d97109a02d15139479",
+    "src_size": 10632,
+    "src_mtime_ms": 1767751856502.4175
+  },
+  "skills/canvas-design/canvas-fonts/Gloock-OFL.txt": {
+    "translate_datetime": "2026-01-08:15:54",
+    "src_hash": "2cc6d168f1171b25a10e825bb7a54ee7",
+    "src_size": 4381,
+    "src_mtime_ms": 1767751856321.6907
+  },
+  "skills/canvas-design/canvas-fonts/NationalPark-OFL.txt": {
+    "translate_datetime": "2026-01-08:15:54",
+    "src_hash": "67073750dbf1a5d68e56c4c5ffec8f09",
+    "src_size": 4399,
+    "src_mtime_ms": 1767751856355.9812
+  },
+  "skills/canvas-design/canvas-fonts/RedHatMono-OFL.txt": {
+    "translate_datetime": "2026-01-08:15:54",
+    "src_hash": "0787f4274246f7bbf6c429db807e3049",
+    "src_size": 4394,
+    "src_mtime_ms": 1767751856366.0452
+  },
+  "skills/slack-gif-creator/core/frame_composer.py": {
+    "translate_datetime": "2026-01-08:15:56",
+    "src_hash": "12b7331866a67b0653b2c8e026210637",
+    "src_size": 4548,
+    "src_mtime_ms": 1767751856484.6975
+  },
+  "skills/theme-factory/SKILL.md": {
+    "translate_datetime": "2026-01-08:15:56",
+    "src_hash": "258bd4d04c12fafce1f41d9bfe9b79a7",
+    "src_size": 3124,
+    "src_mtime_ms": 1767751856488.7246
+  },
+  "skills/theme-factory/themes/forest-canopy.md": {
+    "translate_datetime": "2026-01-08:15:56",
+    "src_hash": "a97be058e329c04c4b61de0f3072ccbd",
+    "src_size": 506,
+    "src_mtime_ms": 1767751856491.6929
+  },
+  "skills/web-artifacts-builder/LICENSE.txt": {
+    "translate_datetime": "2026-01-08:15:57",
+    "src_hash": "175792518e4ac015ab6696d16c4f607e",
+    "src_size": 11357,
+    "src_mtime_ms": 1767751856494.3079
+  },
+  "skills/skill-creator/LICENSE.txt": {
+    "translate_datetime": "2026-01-08:16:14",
+    "src_hash": "175792518e4ac015ab6696d16c4f607e",
+    "src_size": 11357,
+    "src_mtime_ms": 1767751856477.458
+  },
+  "skills/canvas-design/canvas-fonts/EricaOne-OFL.txt": {
+    "translate_datetime": "2026-01-09:12:34",
+    "src_hash": "0312065d0003e7a4ef6a459afd7e1ccb",
+    "src_size": 4410,
+    "src_mtime_ms": 1767751856317.691
+  },
+  "skills/canvas-design/canvas-fonts/YoungSerif-OFL.txt": {
+    "translate_datetime": "2026-01-09:12:34",
+    "src_hash": "fa532d4441344be225f3f46d7ce2aabf",
+    "src_size": 4398,
+    "src_mtime_ms": 1767751856380.3489
+  },
+  "skills/doc-coauthoring/SKILL.md": {
+    "translate_datetime": "2026-01-09:13:14",
+    "src_hash": "2b2974d6c73233fc15242d248c1c2d9b",
+    "src_size": 15815,
+    "src_mtime_ms": 1767751856382.351
+  },
+  "skills/pptx/SKILL.md": {
+    "translate_datetime": "2026-01-09:12:37",
+    "src_hash": "17b3eaf3b4eb19e0f5ba514dc4f40820",
+    "src_size": 25551,
+    "src_mtime_ms": 1767751856442.3628
+  },
+  "skills/canvas-design/canvas-fonts/NothingYouCouldDo-OFL.txt": {
+    "translate_datetime": "2026-01-09:13:19",
+    "src_hash": "b3dd666855ec5cd55f351287c80b9eb1",
+    "src_size": 4363,
+    "src_mtime_ms": 1767751856358.365
+  },
+  "skills/slack-gif-creator/requirements.txt": {
+    "translate_datetime": "2026-01-09:13:23",
+    "src_hash": "f0438b406aa799a2f7be030d5f0e2185",
+    "src_size": 66,
+    "src_mtime_ms": 1767751856486.934
+  }
+}

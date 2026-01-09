@@ -1,0 +1,22 @@
+<evaluation>
+   <qa_pair>
+      <question>计算一笔10,000美元的投资，以5%的年利率按月复利，3年后产生的复利。最终金额是多少美元（保留2位小数）？</question>
+      <answer>11614.72</answer>
+   </qa_pair>
+   <qa_pair>
+      <question>一枚炮弹以45度角发射，初速度为50米/秒。假设g=9.8米/秒²，计算它在发射后2秒内从发射点移动的总距离（以米为单位）。保留2位小数。</question>
+      <answer>87.25</answer>
+   </qa_pair>
+   <qa_pair>
+      <question>一个球体的体积为500立方米。计算其表面积（以平方米为单位）。保留2位小数。</question>
+      <answer>304.65</answer>
+   </qa_pair>
+   <qa_pair>
+      <question>计算这组数据的总体标准差：[12, 15, 18, 22, 25, 30, 35]。保留2位小数。</question>
+      <answer>7.61</answer>
+   </qa_pair>
+   <qa_pair>
+      <question>计算氢离子浓度为3.5 × 10^-5 M的溶液的pH值。保留2位小数。</question>
+      <answer>4.46</answer>
+   </qa_pair>
+</evaluation>

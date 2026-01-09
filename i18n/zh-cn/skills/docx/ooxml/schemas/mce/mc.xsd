@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	attributeFormDefault="unqualified" elementFormDefault="qualified"
+	targetNamespace="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!--
+    此 XSD 是以下位置找到的版本的修改版：
+    https://github.com/plutext/docx4j/blob/master/xsd/mce/markup-compatibility-2006-MINIMAL.xsd
+
+    此 XSD 有两个目标：
+
+        1. 往返处理 @mc:Ignorable
+
+			<w:document
+			            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+			            xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+			            mc:Ignorable="w14 w15 wp14">
+
+        2. 启用在某些元素中操作 AlternateContent
+           （在内容模型为 xsd:any 的不常见情况下，无需显式添加）
+
+		详见 ECMA-376，第四版，Office Open XML 文件格式
+		第三部分：标记兼容性和可扩展性
+   -->
+
+  <!--  目标 1 -->
+  <xsd:attribute name="Ignorable" type="xsd:string" />
+
+  <!--  目标 2 -->
+	<xsd:attribute name="MustUnderstand" type="xsd:string"  />
+	<xsd:attribute name="ProcessContent" type="xsd:string"  />
+
+<!-- AlternateContent 元素应包含一个或多个 Choice 子元素，可选地跟随一个 Fallback 子元素。如果存在，应仅有一个 Fallback 元素，且应位于所有 Choice 元素之后。 -->
+	<xsd:element name="AlternateContent">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="Choice" minOccurs="0" maxOccurs="unbounded">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:any minOccurs="0" maxOccurs="unbounded"
+								processContents="strict">
+							</xsd:any>
+						</xsd:sequence>
+						<xsd:attribute name="Requires" type="xsd:string" use="required" />
+						<xsd:attribute ref="mc:Ignorable" use="optional" />
+						<xsd:attribute ref="mc:MustUnderstand" use="optional" />
+						<xsd:attribute ref="mc:ProcessContent" use="optional" />
+					</xsd:complexType>
+				</xsd:element>
+				<xsd:element name="Fallback" minOccurs="0" maxOccurs="1">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:any minOccurs="0" maxOccurs="unbounded"
+								processContents="strict">
+							</xsd:any>
+						</xsd:sequence>
+						<xsd:attribute ref="mc:Ignorable" use="optional" />
+						<xsd:attribute ref="mc:MustUnderstand" use="optional" />
+						<xsd:attribute ref="mc:ProcessContent" use="optional" />
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:sequence>
+			<!-- AlternateContent 元素可能包含本文档 ECMA-376 部分中描述的属性 Ignorable、
+				MustUnderstand 和 ProcessContent。当这些属性与 AlternateContent
+				元素关联时，其限定名称应带有前缀。 -->
+			<xsd:attribute ref="mc:Ignorable" use="optional" />
+			<xsd:attribute ref="mc:MustUnderstand" use="optional" />
+			<xsd:attribute ref="mc:ProcessContent" use="optional" />
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>
